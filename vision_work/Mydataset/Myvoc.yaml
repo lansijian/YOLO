@@ -1,0 +1,9 @@
+train: D:/ultralytics-8.1.0/vision_work/Mydataset/data/train.txt
+val: D:/ultralytics-8.1.0/vision_work/Mydataset/data/val.txt
+test: D:/ultralytics-8.1.0/vision_work/Mydataset/data/test.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ['1']

@@ -1,0 +1,37 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>D:\ultralytics-8.1.0\vision_work\Mydataset\original_dataset\278.jpg</filename>
+	<source>
+		<database>hulan</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167.7186311787072</xmin>
+			<ymin>299.72623574144484</ymin>
+			<xmax>308.40304182509504</xmax>
+			<ymax>346.8745247148289</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>447.18631178707227</xmin>
+			<ymin>144.59315589353614</ymin>
+			<xmax>497.75665399239546</xmax>
+			<ymax>297.8250950570342</ymax>
+		</bndbox>
+	</object>
+</annotation>
